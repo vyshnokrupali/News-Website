@@ -1,3 +1,8 @@
-# News-Website
-This website is a simple news app built using ReactJs that fetches and displays the latest news from various categories like Technology, Business, Health, Science, Sports, and Entertainment. 
-You can select a category to view top headlines or perform a search to find specific articles. The app uses the NewsAPI to fetch articles and displays them in a user-friendly card layout with an option to read the full article.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
